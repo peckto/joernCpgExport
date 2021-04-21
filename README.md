@@ -19,7 +19,7 @@ $ sbt stage
 
 ## Usage
 ```shell
-$ ./target/universal/stage/bin/joernCpgExport --help
+$ ./target/universal/stage/bin/joerncpgexport --help
 Usage: joernCpgExport [options]
 
   -d, --no-default-overlays  do not apply default overlays
